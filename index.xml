@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>KN on KN</title>
+    <link>/</link>
+    <description>Recent content in KN on KN</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Forecasting influenza in Hong Kong with Google search queries and statistical model fusion</title>
+      <link>/publication/hk-flu/</link>
+      <pubDate>Tue, 02 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/hk-flu/</guid>
+      <description>&lt;p&gt;#More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Example Talk</title>
+      <link>/talk/example-talk/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0600</pubDate>
+      
+      <guid>/talk/example-talk/</guid>
+      <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://sourcethemes.com/academic/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>snowboot: Bootstrap Methods for Network Inference</title>
+      <link>/project/snowboot/</link>
+      <pubDate>Thu, 08 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/project/snowboot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Catching Social Butterflies: Identifying Influential Users of an Event-Based Social Networking Service</title>
+      <link>/publication/meetup/</link>
+      <pubDate>Mon, 27 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/meetup/</guid>
+      <description>&lt;p&gt;#More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
